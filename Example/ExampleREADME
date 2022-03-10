@@ -1,0 +1,12 @@
+Example
+----------------------------------------------------
+
+example.csv shows some psuedo-data with four attributes: Sex/Education/Occupation/Income
+In this example, Income is the sensitive attribute.
+
+example_out.csv shows a strict 2-anonymisation (k=2) of example.csv where the Sex/Education/Occupation attributes were used as QIDs.
+
+This was executed with command:
+
+anonymise.py example.csv 0,1,2 2 example_out.csv 0 1
+
