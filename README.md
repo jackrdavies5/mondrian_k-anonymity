@@ -11,6 +11,6 @@ Usage: anonymise.py [input_filename] [QID_list (comma separated)] [k-value] [out
 
 Example: anonymise.py input.csv 0,1,2 2 output.csv 0 1
 
-This would create a strict 2-anonymisation (k=2) of the table in file input.csv which has no headers using columns 0,1,2 as QIDs
+This would create a strict 2-anonymisation (k=2) of the table in file input.csv which has no headers using columns 0,1,2 as QIDs, and output to output.csv
 
 --------------------------------------------------------------------------------------------------------------------
