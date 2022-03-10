@@ -1,0 +1,33 @@
+female,high school,advertising,>50k
+female,high school,advertising,<50k
+female,high school,advertising,<50k
+male,high school,advertising,<50k
+male,high school,advertising,<50k
+male,high school,advertising,>50k
+"['female', 'male']","['bachelors', 'high school']","['construction', 'cyber']",<50k
+"['female', 'male']","['bachelors', 'high school']","['construction', 'cyber']",>50k
+female,"['masters', 'phd']","['advertising', 'cyber']",>50k
+female,"['masters', 'phd']","['advertising', 'cyber']",<50k
+male,masters,"['advertising', 'cyber']",>50k
+male,masters,"['advertising', 'cyber']",>50k
+"['female', 'male']",phd,doctor,>50k
+"['female', 'male']",phd,doctor,>50k
+"['female', 'male']",phd,doctor,>50k
+female,bachelors,sales,>50k
+female,bachelors,sales,<50k
+female,bachelors,sales,>50k
+male,bachelors,sales,<50k
+male,bachelors,sales,>50k
+male,bachelors,sales,>50k
+"['female', 'male']",high school,sales,<50k
+"['female', 'male']",high school,sales,<50k
+male,phd,"['research', 'sales']",>50k
+male,phd,"['research', 'sales']",>50k
+female,"['bachelors', 'high school']",service,<50k
+female,"['bachelors', 'high school']",service,<50k
+female,"['bachelors', 'high school']",service,<50k
+female,"['bachelors', 'high school']",service,<50k
+male,"['bachelors', 'high school', 'masters']",service,<50k
+male,"['bachelors', 'high school', 'masters']",service,<50k
+male,"['bachelors', 'high school', 'masters']",service,<50k
+male,"['bachelors', 'high school', 'masters']",service,<50k
